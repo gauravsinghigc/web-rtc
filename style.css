@@ -1,0 +1,31 @@
+.video-call {
+  width: 60%;
+}
+.video1 {
+  position: absolute;
+  width: 10%;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 2px grey;
+  padding: 0.2rem;
+  margin: 1rem;
+}
+
+.video2 {
+  background-image: url("https://media.istockphoto.com/id/1272295071/vector/video-call-icon-online-chat-button-isolated-on-white-background-vector-illustration.jpg?s=170667a&w=0&k=20&c=ZYKZHcPxj-Ow7HIZTPA-eAWqGjRlRYxRjZTIe2B1nuM=");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  min-height: 30rem;
+  width: 100%;
+  min-width: 230px;
+  max-width: 100%;
+}
+.hidden {
+  display: none !important;
+}
+.text-center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
